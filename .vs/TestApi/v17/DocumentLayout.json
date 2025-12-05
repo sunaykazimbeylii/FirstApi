@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\TestApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\entity\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:entity\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\dtos\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:dtos\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\dtos\\category\\getcategorydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:dtos\\category\\getcategorydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|c:\\users\\user\\source\\repos\\testapi\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B2EFB4-5D67-49D7-B819-BFC88C57030F}|TestApi.csproj|solutionrelative:globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:47:46.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\Entity\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\Entity\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Entity\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:46:27.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\Entity\\Product.cs",
+              "RelativeToolTip": "Entity\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:44:27.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\Entity\\Category.cs",
+              "RelativeToolTip": "Entity\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:05:12.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAADwvxIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:54:59.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:53:20.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:04:18.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:44:51.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T12:58:27.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAIBJwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T12:58:46.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-31T15:13:04.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Category\\UpdateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "RelativeToolTip": "DTOs\\Category\\UpdateCategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:12:53.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\DTOs\\Product\\GetProductDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Product\\GetProductDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\DTOs\\Product\\GetProductDTO.cs",
+              "RelativeToolTip": "DTOs\\Product\\GetProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T15:15:14.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\DTOs\\Category\\GetCategoryDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Category\\GetCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\DTOs\\Category\\GetCategoryDTO.cs",
+              "RelativeToolTip": "DTOs\\Category\\GetCategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T13:04:55.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetCategoryDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\DTOs\\Category\\GetCategoryDetailDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Category\\GetCategoryDetailDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\DTOs\\Category\\GetCategoryDetailDTO.cs",
+              "RelativeToolTip": "DTOs\\Category\\GetCategoryDetailDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T13:31:53.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Category\\CreateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "RelativeToolTip": "DTOs\\Category\\CreateCategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T15:54:17.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:41:25.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswB8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:16:02.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:44:26.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:34:12.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestApi\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestApi\\GlobalUsing.cs",
+              "RelativeToolTip": "GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T15:44:42.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

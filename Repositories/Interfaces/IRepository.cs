@@ -1,0 +1,22 @@
+﻿using System.Linq.Expressions;
+
+namespace TestApi.Repositories.Interfaces
+{
+    public interface IRepository<T> where T : BaseEntity, new()
+    {
+        IQueryable<T> GetAll(
+            Expression<Func<T, bool>>? expression = null,
+             Expression<Func<T, object>>? orderExpression = null,
+              int skip = 0,
+            int take = 0,
+            bool isDescending = false,
+            bool isTracking = false,
+            params string[] includes);
+        Task<T> GetById(int id, params string[] includes);
+        Task AddAsync(T entity);
+        void Delete(T entity);
+        void Update(T entity);
+        Task<int> SaveChangesAsync();
+        Task<bool> AnyAsync(Expression<Func<T, bool>>? expression);
+    }
+}
